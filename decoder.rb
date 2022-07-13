@@ -1,5 +1,4 @@
 def decode_letter (input)
-  
   case input
   when ".-"
     output = "A"
@@ -59,6 +58,11 @@ def decode_letter (input)
   return output
 end
 
-def decode_word
-  
+def decode_word (word)
+  output = ""
+  array = word.split(" ")
+  array.each {
+    |code| output += decode_letter (code)
+  }
+  return output
 end
