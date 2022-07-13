@@ -66,3 +66,15 @@ def decode_word (word)
   }
   return output
 end
+
+def decode_message (message)
+  output = ""
+  array = message.split('   ')
+  array.each_with_index do |word, index|
+    output += decode_word (word)
+    if index != (array.length - 1) 
+      output += " "
+    end
+  end
+  return output
+end
