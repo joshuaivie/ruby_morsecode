@@ -2,7 +2,7 @@
 
 # Morse Code
 
-> This is a Ruby application that builds a school library database.
+> This is a small ruby application for interpreting morse code.
 
 ## Built With
 
@@ -10,16 +10,25 @@
 
 ## Getting Started
 
-- git clone https://github.com/acolombo1/School-library.git
-- cd School-library
-- Start IRB and copy the .rb files content to the command line
 ## Authors
+
+👤 **Wander A. Gonzalez**
+
+- GitHub: [@wandergithub](https://github.com/wandergithub)
+- Twitter: [@wanderklk1](https://twitter.com/wanderklk1)
+- LinkedIn: [Wander A. Gonzalez](https://www.linkedin.com/in/wander-a-gonzalez-53127b205/)
 
 👤 **Aldo Colombo**
 
 - GitHub: [@acolombo1](https://github.com/acolombo1)
 - Twitter: [@aldocolombo](https://twitter.com/aldocolombo)
 - LinkedIn: [Aldo Colombo](https://www.linkedin.com/in/aldo-colombo-2156009)
+
+👤 **Joshua Ivie**
+
+- GitHub: [@joshuaivie](https://github.com/joshuaivie)
+- Twitter: [@joshuaivie\_](https://twitter.com/joshuaivie_)
+- LinkedIn: [joshuaivie](https://linkedin.com/in/joshuaivie)
 
 ## 🤝 Contributing
 
